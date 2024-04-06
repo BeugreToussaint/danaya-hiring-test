@@ -1,0 +1,14 @@
+de\tuxbe\testtechnique\domain\mapper\MapperImpl.class
+de\tuxbe\testtechnique\web\exception\GlobalException.class
+de\tuxbe\testtechnique\domain\model\Personne.class
+de\tuxbe\testtechnique\web\dto\person\PersonMatchResult.class
+de\tuxbe\testtechnique\web\dto\person\PersonneDto.class
+de\tuxbe\testtechnique\domain\service\daoimpl\PersonneDAOImpl.class
+de\tuxbe\testtechnique\TestTechniqueApplication.class
+de\tuxbe\testtechnique\util\TuxUtility.class
+de\tuxbe\testtechnique\web\controller\PersonneController.class
+de\tuxbe\testtechnique\domain\mapper\MapperGeneric.class
+de\tuxbe\testtechnique\web\dto\ErrorMessage.class
+de\tuxbe\testtechnique\domain\repository\PersonneRepository.class
+de\tuxbe\testtechnique\web\exception\ResourceNotFoundException.class
+de\tuxbe\testtechnique\domain\service\dao\PersonneDAO.class
